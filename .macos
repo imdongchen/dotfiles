@@ -69,6 +69,8 @@ ln -s "${HOME}/dotfiles/.gitignore_global" "${HOME}/.gitignore_global"
 ln -s "${HOME}/dotfiles/.my_bin" "${HOME}/.my_bin"
 ln -s "${HOME}/dotfiles/.vimrc" "${HOME}/.vimrc"
 ln -s "${HOME}/dotfiles/.vimrc-parts" "${HOME}/.vimrc-parts"
+ln -s "${HOME}/dotfiles/.zshrc" "${HOME}/.zshrc"
+ln -s "${HOME}/dotfiles/.oh-my-zsh" "${HOME}/.oh-my-zsh"
 
 echo "making system modifications:"
 
